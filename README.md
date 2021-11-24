@@ -4,7 +4,8 @@
 FR // Ce projet a pour objectif de vous faire coder en C une librairie de fonctions usuelles que vous pourrez utiliser dans tous vos prochains projets.
 EN // Project consist on recreating on recreating many functions of the standard library in C and adds new functions. 
 
-FR // Parmi les fonctions extra nous retrouverons
+
+Parmi les fonctions supplémenatire nous retrouverons :/ Amongs extra function there are: 
 
 SUBSTR: char *ft_substr(char const *s, unsigned int start, size_t len);
 
